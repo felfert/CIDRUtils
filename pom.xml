@@ -10,7 +10,7 @@
   <groupId>com.github.felfert</groupId>
   <artifactId>cidrutils</artifactId>
   <packaging>jar</packaging>
-  <version>1.5</version>
+  <version>1.6-SNAPSHOT</version>
   <name>CIDRUtils</name>
   <url>http://github.com/felfert/CIDRUtils</url>
 
